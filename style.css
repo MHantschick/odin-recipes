@@ -21,6 +21,7 @@ a {
     font-size: 24px;
     font-weight: 500;
     text-decoration: none;
+    color: black;
 }
 a:visited {
     color: black;
