@@ -1,0 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border: 23px outset rgba(100, 100, 100, 1);
+    border-radius: 4px;
+    max-width: 900px;
+    margin: auto;
+}
+
+img {
+    margin-top: 10px;
+    width: 300px;
+    height: auto;
+}
+
+div {
+    margin:auto;
+    width: 600px;
+    padding: 20px 0px;
+}
+
+li {
+    text-align: justify;
+}
